@@ -1,5 +1,4 @@
-
-<h1 align="center">CodeBuzz Android Project/h1>
+<h1 align="center">CodeBuzz Android Project </h1>
 
 <div align="center">
 
@@ -26,8 +25,7 @@ A CodeBuzz app of increament and dicreament function
 
   <div>
   <img src="https://img.shields.io/badge/-Andoid_Studio-black?style=for-the-badge&logoColor=white&logo=androidstudio&color=3DDC84" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/-Kotlin-black?style=for-the-badge&logoColor=white&logo=kotlin&color=7F52FF" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/-Jetpack_Compose-black?style=for-the-badge&logoColor=white&logo=jetpackcompose&color=4285F4" alt="Jetpack Compose" />
+  <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logoColor=white&logo=android&color=3DDC84" alt="Android" />
   </div> <br/>
 
 ## <a name="feature">🔋 Feature</a>
